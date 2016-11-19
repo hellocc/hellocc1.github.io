@@ -42,7 +42,7 @@ timezone:      null
 title: 9leg
 description: java,scala
 keywords: java,scala
-url: http://hellocc.github.io
+url: https://hellocc.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
